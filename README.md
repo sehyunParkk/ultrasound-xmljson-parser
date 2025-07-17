@@ -7,25 +7,25 @@ GE, Siemens 등 의료기기별 데이터 구조 차이를 파악하고, 정형 
 
 # 📌 Features
 
-✅ XML / JSON 포맷 자동 파싱
-✅ 주요 파라미터(ScanMode, ParameterName, DisplayValue 등) 추출
-✅ Redirect 구조가 포함된 JSON의 중첩 데이터 처리
-✅ 결과물 CSV 자동 저장
-✅ GE / Siemens 기기 데이터 비교 및 분석 대응 가능
+- ✅ XML / JSON 포맷 자동 파싱
+- ✅ 주요 파라미터(ScanMode, ParameterName, DisplayValue 등) 추출
+- ✅ Redirect 구조가 포함된 JSON의 중첩 데이터 처리
+- ✅ 결과물 CSV 자동 저장
+- ✅ GE / Siemens 기기 데이터 비교 및 분석 대응 가능
 
 -----
 
 # 📂 File Structure
 
 Project Root
-↳ organizing_data.py
-↳ organized_xml.csv
-↳ organized_json.csv
-↳ XML_JSON_데이터대조비교분석.pdf
-↳ 데이터 분석 결론.pdf
-↳ 2025-06-02_16740.xml
-↳ 20250515110924ReportExport.json
-↳ README.md
+- ↳ organizing_data.py
+- ↳ organized_xml.csv
+- ↳ organized_json.csv
+- ↳ XML_JSON_데이터대조비교분석.pdf
+- ↳ 데이터 분석 결론.pdf
+- ↳ 2025-06-02_16740.xml
+- ↳ 20250515110924ReportExport.json
+- ↳ README.md
 
 -----
 
