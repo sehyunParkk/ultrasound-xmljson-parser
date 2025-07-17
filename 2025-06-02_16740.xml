@@ -1,0 +1,4666 @@
+<MeasurementExport docVersion="1.0.0.0">
+  <Patient>
+    <Address />
+    <Birthdate>1979-03-01T00:00:00</Birthdate>
+    <Comments />
+    <EthnicGroup />
+    <FirstName>LEE</FirstName>
+    <IssuerOfPatientId />
+    <LastName>SEUNG HUN</LastName>
+    <MiddleName />
+    <NamePrefix />
+    <NameSuffix />
+    <PatientId>16740</PatientId>
+    <PatientIdValidationStatus>0</PatientIdValidationStatus>
+    <Phone1 />
+    <Phone2 />
+    <Sex>M</Sex>
+    <OtherPatientId>
+      <IsPrimary>false</IsPrimary>
+      <IssuerOfPatientId />
+      <PatientId>16740</PatientId>
+      <PatientIdValidationStatus>0</PatientIdValidationStatus>
+      <TypeOfPatientId>TEXT</TypeOfPatientId>
+    </OtherPatientId>
+    <Study>
+      <AccessionNumber>165297_3_0</AccessionNumber>
+      <AdditionalPatientHistory />
+      <AdmissionId />
+      <CurrentPatientLocation />
+      <Height>1.7</Height>
+      <ImageServiceRequestComments />
+      <RequestedProcedureDescription>½ÉÀå-°æÈäºÎ</RequestedProcedureDescription>
+      <RequestedProcedureId>EB433</RequestedProcedureId>
+      <StudyDateTime>2025-06-02T10:41:39</StudyDateTime>
+      <StudyDescription>½ÉÀå-°æÈäºÎ</StudyDescription>
+      <StudyInstanceUID>1.2.410.200018.7.100.1.202506021023538860045</StudyInstanceUID>
+      <StudyId>EB433</StudyId>
+      <Weight>76</Weight>
+      <Series>
+        <BloodPressure>125/75</BloodPressure>
+        <Category>C</Category>
+        <InstitutionName>Dr. kim IM Clinic</InstitutionName>
+        <IsStressExam>false</IsStressExam>
+        <LastModifiedByADSVersion>2.0.4.0</LastModifiedByADSVersion>
+        <LastModifiedByVersion>Vivid S60:205.97.0</LastModifiedByVersion>
+        <Modality>US</Modality>
+        <PPSDescription>½ÉÀå-°æÈäºÎ</PPSDescription>
+        <SeriesDateTime>2025-06-02T10:41:39</SeriesDateTime>
+        <SeriesInstanceUID>1.2.840.113619.2.393.123847.1748860899.92.1</SeriesInstanceUID>
+        <SignedOff>false</SignedOff>
+        <SPSDescription>½ÉÀå-°æÈäºÎ ½ÉÃÊÀ½ÆÄ-Àü¹®</SPSDescription>
+        <SPSId>EB433</SPSId>
+        <SPSStartDateTime>2025-06-02T09:47:50</SPSStartDateTime>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LA/Ao</MeasureId>
+          <ParameterId>MM/Ao Root Diam</ParameterId>
+          <ParameterName>Ao Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.036780385256830313</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>36.780385256830314</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LA/Ao</MeasureId>
+          <ParameterId>MM/Ao Root Diam</ParameterId>
+          <ParameterName>Ao Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.036780385256830313</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>36.780385256830314</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LA/Ao</MeasureId>
+          <ParameterId>MM/LA</ParameterId>
+          <ParameterName>LA Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.031982943701591576</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>31.982943701591577</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LA/Ao</MeasureId>
+          <ParameterId>MM/LA</ParameterId>
+          <ParameterName>LA Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.031982943701591576</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>31.982943701591577</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LA/Ao</MeasureId>
+          <ParameterId>MM/LA/Ao</ParameterId>
+          <ParameterName>LA/Ao</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.86956521739130432</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.86956521739130432</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LA/Ao</MeasureId>
+          <ParameterId>MM/LA/Ao</ParameterId>
+          <ParameterName>LA/Ao</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.86956521739130432</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.86956521739130432</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/Mitral Study</MeasureId>
+          <ParameterId>MM/MV D-E Excursion</ParameterId>
+          <ParameterName>D-E Excursion</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.018869936783939029</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>18.869936783939028</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/Mitral Study</MeasureId>
+          <ParameterId>MM/MV D-E Excursion</ParameterId>
+          <ParameterName>D-E Excursion</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.018869936783939029</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>18.869936783939028</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/Mitral Study</MeasureId>
+          <ParameterId>MM/MV E-F Slope</ParameterId>
+          <ParameterName>E-F Slope</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.097480814108080946</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>97.480814108080949</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/Mitral Study</MeasureId>
+          <ParameterId>MM/MV E-F Slope</ParameterId>
+          <ParameterName>E-F Slope</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.097480814108080946</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>97.480814108080949</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-E8BCF7B5-1703-40C8-B1E6-FFCC05266AB9</MeasureId>
+          <ParameterId>MM/EPSS</ParameterId>
+          <ParameterName>EPSS</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.009594883110477459</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>9.59488311047746</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-E8BCF7B5-1703-40C8-B1E6-FFCC05266AB9</MeasureId>
+          <ParameterId>MM/EPSS</ParameterId>
+          <ParameterName>EPSS</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.009594883110477459</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>9.59488311047746</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/IVSd</ParameterId>
+          <ParameterName>IVSd</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.0054371004292705638</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>5.437100429270564</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/IVSd</ParameterId>
+          <ParameterName>IVSd</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.0070362476143501496</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>7.03624761435015</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVIDd</ParameterId>
+          <ParameterName>LVIDd</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.05437100429270568</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>54.371004292705678</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVIDd</ParameterId>
+          <ParameterName>LVIDd</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.054371004292705673</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>54.37100429270567</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPWd</ParameterId>
+          <ParameterName>LVPWd</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.0063965887403183153</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>6.3965887403183155</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPWd</ParameterId>
+          <ParameterName>LVPWd</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.005756929866286481</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>5.7569298662864812</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/IVSs</ParameterId>
+          <ParameterName>IVSs</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.0083155653624138112</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>8.31556536241381</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/IVSs</ParameterId>
+          <ParameterName>IVSs</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.007995735925397901</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>7.9957359253979012</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVIDs</ParameterId>
+          <ParameterName>LVIDs</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.037420044130862133</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>37.420044130862131</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVIDs</ParameterId>
+          <ParameterName>LVIDs</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.036780385256830306</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>36.780385256830307</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPWs</ParameterId>
+          <ParameterName>LVPWs</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.00927505367346157</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>9.2750536734615689</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPWs</ParameterId>
+          <ParameterName>LVPWs</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.0086353947994297214</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>8.6353947994297222</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/EDV(Teich)</ParameterId>
+          <ParameterName>EDV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.00014356371658043863</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>143.56371658043864</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/EDV(Teich)</ParameterId>
+          <ParameterName>EDV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.0001435637165804386</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>143.56371658043861</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/ESV(Teich)</ParameterId>
+          <ParameterName>ESV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>5.9717387750653659E-05</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>59.717387750653657</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/ESV(Teich)</ParameterId>
+          <ParameterName>ESV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>5.7303798805402165E-05</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>57.303798805402167</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/EF(Teich)</ParameterId>
+          <ParameterName>EF(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.58403565209184272</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>58.403565209184272</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/EF(Teich)</ParameterId>
+          <ParameterName>EF(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.60084762243324263</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>60.084762243324263</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/%FS</ParameterId>
+          <ParameterName>%FS</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.31176470588235317</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>31.176470588235318</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/%FS</ParameterId>
+          <ParameterName>%FS</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.3235294117647059</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>32.352941176470587</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/SV(Teich)</ParameterId>
+          <ParameterName>SV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>8.3846328829784972E-05</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>83.846328829784966</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/SV(Teich)</ParameterId>
+          <ParameterName>SV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>8.6259917775036431E-05</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>86.259917775036428</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVd Mass/ASE</ParameterId>
+          <ParameterName>LVd Mass (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.10830019008195139</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>108.3001900819514</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVd Mass/ASE</ParameterId>
+          <ParameterName>LVd Mass (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.11894997281256955</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>118.94997281256956</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g/m2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVd Mass Index/ASE</ParameterId>
+          <ParameterName>LVd Mass Ind (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.057914540150776142</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>57.914540150776141</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g/m2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVd Mass Index/ASE</ParameterId>
+          <ParameterName>LVd Mass Ind (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.063609611129716331</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>63.609611129716335</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPW RWTd</ParameterId>
+          <ParameterName>RWT</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.23529411764705882</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.23529411764705882</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPW RWTd</ParameterId>
+          <ParameterName>RWT</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.21176470588235285</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.21176470588235285</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/RVOT</MeasureId>
+          <ParameterId>2D/RVOT Diam</ParameterId>
+          <ParameterName>RVOT Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.030050968309295</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>30.050968309295</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/RVOT</MeasureId>
+          <ParameterId>2D/RVOT Diam</ParameterId>
+          <ParameterName>RVOT Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.030050968309295</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>30.050968309295</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVOT Diam</MeasureId>
+          <ParameterId>2D/LVOT Diam</ParameterId>
+          <ParameterName>LVOT Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.023018985979020034</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>23.018985979020034</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVOT Diam</MeasureId>
+          <ParameterId>2D/LVOT Diam</ParameterId>
+          <ParameterName>LVOT Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.023018985979020034</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>23.018985979020034</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/Ao Root Diam</MeasureId>
+          <ParameterId>2D/Ao Root Diam</ParameterId>
+          <ParameterName>Ao Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.038135700025647958</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>38.135700025647957</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/Ao Root Diam</MeasureId>
+          <ParameterId>2D/Ao Root Diam</ParameterId>
+          <ParameterName>Ao Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.038135700025647958</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>38.135700025647957</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/Ao Asc Diam</MeasureId>
+          <ParameterId>2D/Ao Asc Diam</ParameterId>
+          <ParameterName>Ao asc</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.037145397414226886</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>37.145397414226885</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/Ao Asc Diam</MeasureId>
+          <ParameterId>2D/Ao Asc Diam</ParameterId>
+          <ParameterName>Ao asc</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.037145397414226886</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>37.145397414226885</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LA</MeasureId>
+          <ParameterId>2D/LA</ParameterId>
+          <ParameterName>LA Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.029576294381711363</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>29.576294381711364</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LA</MeasureId>
+          <ParameterId>2D/LA</ParameterId>
+          <ParameterName>LA Diam</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.029576294381711363</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>29.576294381711364</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LA</MeasureId>
+          <ParameterId>USERDEFP-4E4AC090-FDDE-4422-B02D-C37121DCF958</ParameterId>
+          <ParameterName>LA/AO</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.775553991714325</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.775553991714325</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LA</MeasureId>
+          <ParameterId>USERDEFP-4E4AC090-FDDE-4422-B02D-C37121DCF958</ParameterId>
+          <ParameterName>LA/AO</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.775553991714325</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.775553991714325</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/IVSd</ParameterId>
+          <ParameterName>IVSd</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.0075646313911544756</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>7.5646313911544754</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/IVSd</ParameterId>
+          <ParameterName>IVSd</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.0075646313911544756</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>7.5646313911544754</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVIDd</ParameterId>
+          <ParameterName>LVIDd</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.051651404643791657</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>51.651404643791658</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVIDd</ParameterId>
+          <ParameterName>LVIDd</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.051651404643791657</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>51.651404643791658</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVPWd</ParameterId>
+          <ParameterName>LVPWd</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.0090014291000448284</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>9.00142910004483</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVPWd</ParameterId>
+          <ParameterName>LVPWd</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.0090014291000448284</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>9.00142910004483</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/EDV(Teich)</ParameterId>
+          <ParameterName>EDV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.00012750506983362627</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>127.50506983362628</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/EDV(Teich)</ParameterId>
+          <ParameterName>EDV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.00012750506983362627</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>127.50506983362628</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVPW RWTd</ParameterId>
+          <ParameterName>RWT</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.34854537498533539</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.34854537498533539</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVPW RWTd</ParameterId>
+          <ParameterName>RWT</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.34854537498533539</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.34854537498533539</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVd Mass/ASE</ParameterId>
+          <ParameterName>LVd Mass (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.150076475189865</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>150.076475189865</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVd Mass/ASE</ParameterId>
+          <ParameterName>LVd Mass (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.150076475189865</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>150.076475189865</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g/m2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVd Mass Index/ASE</ParameterId>
+          <ParameterName>LVd Mass Ind (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.080254799566772728</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>80.254799566772732</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g/m2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVd</MeasureId>
+          <ParameterId>2D/LVd Mass Index/ASE</ParameterId>
+          <ParameterName>LVd Mass Ind (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.080254799566772728</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>80.254799566772732</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/IVSs</ParameterId>
+          <ParameterName>IVSs</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.010772675848137963</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>10.772675848137963</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/IVSs</ParameterId>
+          <ParameterName>IVSs</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.010772675848137963</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>10.772675848137963</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/LVIDs</ParameterId>
+          <ParameterName>LVIDs</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.035872744310105051</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>35.872744310105048</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/LVIDs</ParameterId>
+          <ParameterName>LVIDs</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.035872744310105051</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>35.872744310105048</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/LVPWs</ParameterId>
+          <ParameterName>LVPWs</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.011438958180758156</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>11.438958180758156</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/LVPWs</ParameterId>
+          <ParameterName>LVPWs</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.011438958180758156</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>11.438958180758156</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/ESV(Teich)</ParameterId>
+          <ParameterName>ESV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>5.397127542988581E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>53.971275429885807</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/ESV(Teich)</ParameterId>
+          <ParameterName>ESV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>5.397127542988581E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>53.971275429885807</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/EF(Teich)</ParameterId>
+          <ParameterName>EF(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.57671271032352134</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>57.671271032352131</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/EF(Teich)</ParameterId>
+          <ParameterName>EF(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.57671271032352134</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>57.671271032352131</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/%FS</ParameterId>
+          <ParameterName>%FS</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.30548366385197917</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>30.548366385197916</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/%FS</ParameterId>
+          <ParameterName>%FS</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.30548366385197917</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>30.548366385197916</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/SV(Teich)</ParameterId>
+          <ParameterName>SV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>7.3533794403740464E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>73.533794403740458</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/2D/Dimension/LVs</MeasureId>
+          <ParameterId>2D/SV(Teich)</ParameterId>
+          <ParameterName>SV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>7.3533794403740464E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/2D/Dimension</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>73.533794403740458</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/IVSd</ParameterId>
+          <ParameterName>IVSd</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.0060767593033023981</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>6.0767593033023983</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVIDd</ParameterId>
+          <ParameterName>LVIDd</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.05437100429270568</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>54.371004292705678</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPWd</ParameterId>
+          <ParameterName>LVPWd</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.0060767593033023981</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>6.0767593033023983</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/IVSs</ParameterId>
+          <ParameterName>IVSs</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.0070362476143501426</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>7.0362476143501427</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVIDs</ParameterId>
+          <ParameterName>LVIDs</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.038059703004893974</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>38.059703004893976</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPWs</ParameterId>
+          <ParameterName>LVPWs</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.011194030295557045</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>11.194030295557045</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/EDV(Teich)</ParameterId>
+          <ParameterName>EDV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.00014356371658043863</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>143.56371658043864</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/ESV(Teich)</ParameterId>
+          <ParameterName>ESV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>6.2184841556487473E-05</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>62.18484155648747</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/EF(Teich)</ParameterId>
+          <ParameterName>EF(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.56684848346312244</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>56.684848346312243</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/%FS</ParameterId>
+          <ParameterName>%FS</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.30000000000000004</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>30.000000000000004</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/SV(Teich)</ParameterId>
+          <ParameterName>SV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>8.1378875023951157E-05</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>81.378875023951153</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVd Mass/ASE</ParameterId>
+          <ParameterName>LVd Mass (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.11181609340261077</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>111.81609340261078</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g/m2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVd Mass Index/ASE</ParameterId>
+          <ParameterName>LVd Mass Ind (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.059794702354337308</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>59.794702354337311</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPW RWTd</ParameterId>
+          <ParameterName>RWT</ParameterName>
+          <Qualifier />
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.22352941176470584</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.22352941176470584</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/IVSd</ParameterId>
+          <ParameterName>IVSd</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.0054371004292705638</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>5.437100429270564</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVIDd</ParameterId>
+          <ParameterName>LVIDd</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.05437100429270568</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>54.371004292705678</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPWd</ParameterId>
+          <ParameterName>LVPWd</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.0063965887403183153</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>6.3965887403183155</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/IVSs</ParameterId>
+          <ParameterName>IVSs</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.0083155653624138112</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>8.31556536241381</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVIDs</ParameterId>
+          <ParameterName>LVIDs</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.037420044130862133</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>37.420044130862131</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPWs</ParameterId>
+          <ParameterName>LVPWs</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.00927505367346157</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>9.2750536734615689</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/EDV(Teich)</ParameterId>
+          <ParameterName>EDV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.00014356371658043863</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>143.56371658043864</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/ESV(Teich)</ParameterId>
+          <ParameterName>ESV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>5.9717387750653659E-05</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>59.717387750653657</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/EF(Teich)</ParameterId>
+          <ParameterName>EF(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.58403565209184272</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>58.403565209184272</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/%FS</ParameterId>
+          <ParameterName>%FS</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.31176470588235317</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>31.176470588235318</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/SV(Teich)</ParameterId>
+          <ParameterName>SV(Teich)</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>8.3846328829784972E-05</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>83.846328829784966</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVd Mass/ASE</ParameterId>
+          <ParameterName>LVd Mass (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.10830019008195139</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>108.3001900819514</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>g/m2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVd Mass Index/ASE</ParameterId>
+          <ParameterName>LVd Mass Ind (ASE)</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.057914540150776142</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>57.914540150776141</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/LV Study</MeasureId>
+          <ParameterId>MM/LVPW RWTd</ParameterId>
+          <ParameterName>RWT</ParameterName>
+          <Qualifier />
+          <ResultNo>2</ResultNo>
+          <ResultValue>0.23529411764705882</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/Generic</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>0.23529411764705882</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV E Velocity</ParameterId>
+          <ParameterName>MV E Vel</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.67134966153879216</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.67134966153879216</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV E Velocity</ParameterId>
+          <ParameterName>MV E Vel</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.67134966153879216</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.67134966153879216</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV Velocity</ParameterId>
+          <ParameterName>MV Velocity</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.018153160104599886</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.018153160104599886</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV Time</ParameterId>
+          <ParameterName>MV Time</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.20551855375832542</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>205.51855375832542</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV Dec Time</ParameterId>
+          <ParameterName>MV DecT</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.21123017530352528</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>211.23017530352527</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV Dec Time</ParameterId>
+          <ParameterName>MV DecT</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.21123017530352528</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>211.23017530352527</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV Dec Slope</ParameterId>
+          <ParameterName>MV Dec Slope</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>3.1782848287376666</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>3.1782848287376666</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV Dec Slope</ParameterId>
+          <ParameterName>MV Dec Slope</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>3.1782848287376666</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>3.1782848287376666</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV A Velocity</ParameterId>
+          <ParameterName>MV A Vel</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.70894370478680313</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.70894370478680313</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV A Velocity</ParameterId>
+          <ParameterName>MV A Vel</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.70894370478680313</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.70894370478680313</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV E/A Ratio</ParameterId>
+          <ParameterName>MV E/A Ratio</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.94697175107956366</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.94697175107956366</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV E/A Ratio</ParameterId>
+          <ParameterName>MV E/A Ratio</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.94697175107956366</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.94697175107956366</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV PHT</ParameterId>
+          <ParameterName>MV PHT</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.061256750838022331</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>61.256750838022327</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MV PHT</ParameterId>
+          <ParameterName>MV PHT</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.061256750838022331</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>61.256750838022327</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MVA (PHT)</ParameterId>
+          <ParameterName>MVA By PHT</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.000359144089411032</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>3.59144089411032</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>MVA (PHT)</ParameterId>
+          <ParameterName>MVA By PHT</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.000359144089411032</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>3.59144089411032</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>USERDEFP-44594E16-A7B4-4269-9568-5688EF420CCC</ParameterId>
+          <ParameterName>MVA PHT</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.00030204017919467782</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>3.020401791946778</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV E/A Velocity</MeasureId>
+          <ParameterId>USERDEFP-44594E16-A7B4-4269-9568-5688EF420CCC</ParameterId>
+          <ParameterName>MVA PHT</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.00030204017919467782</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>3.020401791946778</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-C91BD67E-4DA0-4636-9EEC-171ED9EE392B</MeasureId>
+          <ParameterId>USERDEFP-A0B5954B-9244-48CD-BBE7-212B7632A3D9</ParameterId>
+          <ParameterName>E' Sep.</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.0818153549943576</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-0.0818153549943576</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-C91BD67E-4DA0-4636-9EEC-171ED9EE392B</MeasureId>
+          <ParameterId>USERDEFP-A0B5954B-9244-48CD-BBE7-212B7632A3D9</ParameterId>
+          <ParameterName>E' Sep.</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.0818153549943576</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-0.0818153549943576</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-C91BD67E-4DA0-4636-9EEC-171ED9EE392B</MeasureId>
+          <ParameterId>USERDEFP-C536E609-306B-4B6E-B5EC-6FE99CFE8195</ParameterId>
+          <ParameterName>E/E' Sep.</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-8.20566825854501</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>-8.20566825854501</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit />
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-C91BD67E-4DA0-4636-9EEC-171ED9EE392B</MeasureId>
+          <ParameterId>USERDEFP-C536E609-306B-4B6E-B5EC-6FE99CFE8195</ParameterId>
+          <ParameterName>E/E' Sep.</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-8.20566825854501</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>-8.20566825854501</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV Aprime Septal Velocity</MeasureId>
+          <ParameterId>MV Aprime Septal Velocity</ParameterId>
+          <ParameterName>A' Sept</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.083929849296351888</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.083929849296351888</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV Aprime Septal Velocity</MeasureId>
+          <ParameterId>MV Aprime Septal Velocity</ParameterId>
+          <ParameterName>A' Sept</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.083929849296351888</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-0.083929849296351888</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV Sprime Septal Velocity</MeasureId>
+          <ParameterId>MV Sprime Septal Velocity</ParameterId>
+          <ParameterName>S' Sept</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.092630424920172372</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.092630424920172372</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MV Sprime Septal Velocity</MeasureId>
+          <ParameterId>MV Sprime Septal Velocity</ParameterId>
+          <ParameterName>S' Sept</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.092630424920172372</ResultValue>
+          <ScanMode>PW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.092630424920172372</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/Dimension/Right Heart/TAPSE</MeasureId>
+          <ParameterId>MM/TAPSE</ParameterId>
+          <ParameterName>TAPSE</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.01995735686979315</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/MM/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.995735686979315</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/MM/Dimension/Right Heart/TAPSE</MeasureId>
+          <ParameterId>MM/TAPSE</ParameterId>
+          <ParameterName>TAPSE</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.01995735686979315</ResultValue>
+          <ScanMode>MM</ScanMode>
+          <StudyId>Cardiac/MM/Dimension</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.995735686979315</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Tricuspid Valve/TR Vmax</MeasureId>
+          <ParameterId>TR Vmax</ParameterId>
+          <ParameterName>TR Vmax</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>2.1817040181058092</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Tricuspid Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>2.1817040181058092</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Tricuspid Valve/TR Vmax</MeasureId>
+          <ParameterId>TR Vmax</ParameterId>
+          <ParameterName>TR Vmax</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>-2.7901608824220485</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Tricuspid Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-2.7901608824220485</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Tricuspid Valve/TR Vmax</MeasureId>
+          <ParameterId>TR maxPG</ParameterId>
+          <ParameterName>TR maxPG</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>19.03932969047613</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Tricuspid Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>19.03932969047613</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Tricuspid Valve/TR Vmax</MeasureId>
+          <ParameterId>TR maxPG</ParameterId>
+          <ParameterName>TR maxPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>31.139990999192737</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Tricuspid Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>31.139990999192737</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV Vmax</ParameterId>
+          <ParameterName>PV Vmax</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.63830124032803059</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.63830124032803059</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV Vmax</ParameterId>
+          <ParameterName>PV Vmax</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.63830124032803059</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-0.63830124032803059</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV Vmean</ParameterId>
+          <ParameterName>PV Vmean</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.50933099905310186</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.50933099905310186</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV Vmean</ParameterId>
+          <ParameterName>PV Vmean</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.50933099905310186</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-0.50933099905310186</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV maxPG</ParameterId>
+          <ParameterName>PV maxPG</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>1.6297138936172091</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.6297138936172091</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV maxPG</ParameterId>
+          <ParameterName>PV maxPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>1.6297138936172091</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.6297138936172091</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV meanPG</ParameterId>
+          <ParameterName>PV meanPG</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>1.1186423719895682</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.1186423719895682</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV meanPG</ParameterId>
+          <ParameterName>PV meanPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>1.1186423719895682</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.1186423719895682</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV VTI</ParameterId>
+          <ParameterName>PV VTI</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.12212313202795592</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>12.212313202795592</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Pulmonic/PV Trace/Manual</MeasureId>
+          <ParameterId>PV VTI</ParameterId>
+          <ParameterName>PV VTI</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.12212313202795592</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Pulmonic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>12.212313202795592</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Tricuspid Valve/TR Vmax</MeasureId>
+          <ParameterId>TR Vmax</ParameterId>
+          <ParameterName>TR Vmax</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>1</ResultNo>
+          <ResultValue>-2.1817040181058092</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Tricuspid Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-2.1817040181058092</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Tricuspid Valve/TR Vmax</MeasureId>
+          <ParameterId>TR maxPG</ParameterId>
+          <ParameterName>TR maxPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>1</ResultNo>
+          <ResultValue>19.03932969047613</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Tricuspid Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>19.03932969047613</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MR Vmax</MeasureId>
+          <ParameterId>MR Vmax</ParameterId>
+          <ParameterName>MR Vmax</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>1.1131944027211933</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.1131944027211933</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MR Vmax</MeasureId>
+          <ParameterId>MR Vmax</ParameterId>
+          <ParameterName>MR Vmax</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>-1.1131944027211933</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-1.1131944027211933</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MR Vmax</MeasureId>
+          <ParameterId>MR maxPG</ParameterId>
+          <ParameterName>MR maxPG</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>4.9568071129991775</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>4.9568071129991775</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Mitral Valve/MR Vmax</MeasureId>
+          <ParameterId>MR maxPG</ParameterId>
+          <ParameterName>MR maxPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>4.9568071129991775</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Mitral Valve</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>4.9568071129991775</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV Vmax</ParameterId>
+          <ParameterName>AV Vmax</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>1.2095754039593229</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.2095754039593229</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV Vmax</ParameterId>
+          <ParameterName>AV Vmax</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>-1.1798945813097506</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-1.1798945813097506</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV Vmean</ParameterId>
+          <ParameterName>AV Vmean</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.86896402790817862</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>0.86896402790817862</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV Vmean</ParameterId>
+          <ParameterName>AV Vmean</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.87101467694535428</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-0.87101467694535428</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV maxPG</ParameterId>
+          <ParameterName>AV maxPG</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>5.8522906314534371</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>5.8522906314534371</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV maxPG</ParameterId>
+          <ParameterName>AV maxPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>5.5686048920164462</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>5.5686048920164462</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV meanPG</ParameterId>
+          <ParameterName>AV meanPG</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>3.4396962338129433</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>3.4396962338129433</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV meanPG</ParameterId>
+          <ParameterName>AV meanPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>3.3739004449859085</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>3.3739004449859085</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV Env.Ti</ParameterId>
+          <ParameterName>AV Env.Ti</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.23596574690770697</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>235.96574690770697</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV Env.Ti</ParameterId>
+          <ParameterName>AV Env.Ti</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.25499524262607043</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>254.99524262607042</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV VTI</ParameterId>
+          <ParameterName>AV VTI</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.20504574588128288</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>20.504574588128289</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV VTI</ParameterId>
+          <ParameterName>AV VTI</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.22210459887854897</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>22.210459887854896</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR Vmax</ParameterId>
+          <ParameterName>AR Vmax</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>2.9754205896304216</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>2.9754205896304216</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR Vmax</ParameterId>
+          <ParameterName>AR Vmax</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>2.9754205896304216</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>2.9754205896304216</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR maxPG</ParameterId>
+          <ParameterName>AR maxPG</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>35.41251074078658</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>35.41251074078658</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR maxPG</ParameterId>
+          <ParameterName>AR maxPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>35.41251074078658</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>35.41251074078658</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR PHT</ParameterId>
+          <ParameterName>AR PHT</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.48042771249364585</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>480.42771249364586</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR PHT</ParameterId>
+          <ParameterName>AR PHT</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.48042771249364585</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>480.42771249364586</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR Dec Time</ParameterId>
+          <ParameterName>AR Dec Time</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>1.656647284460848</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1656.6472844608479</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR Dec Time</ParameterId>
+          <ParameterName>AR Dec Time</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>1.656647284460848</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1656.6472844608479</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR Dec Slope</ParameterId>
+          <ParameterName>AR Dec Slope</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>1.7960495378464134</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.7960495378464134</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AR PHT</MeasureId>
+          <ParameterId>AR Dec Slope</ParameterId>
+          <ParameterName>AR Dec Slope</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>0</ResultNo>
+          <ResultValue>1.7960495378464134</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>1.7960495378464134</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV Vmax</ParameterId>
+          <ParameterName>AV Vmax</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>1</ResultNo>
+          <ResultValue>-1.2095754039593229</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-1.2095754039593229</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>m/s</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV Vmean</ParameterId>
+          <ParameterName>AV Vmean</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>1</ResultNo>
+          <ResultValue>-0.86896402790817862</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-0.86896402790817862</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV maxPG</ParameterId>
+          <ParameterName>AV maxPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>1</ResultNo>
+          <ResultValue>5.8522906314534371</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>5.8522906314534371</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mmHg</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV meanPG</ParameterId>
+          <ParameterName>AV meanPG</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>1</ResultNo>
+          <ResultValue>3.4396962338129433</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>3.4396962338129433</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV Env.Ti</ParameterId>
+          <ParameterName>AV Env.Ti</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.23596574690770697</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>235.96574690770697</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/SD/Aortic/AV Trace/Manual</MeasureId>
+          <ParameterId>AV VTI</ParameterId>
+          <ParameterName>AV VTI</ParameterName>
+          <Qualifier>AngleCorrect=0</Qualifier>
+          <ResultNo>1</ResultNo>
+          <ResultValue>0.20504574588128288</ResultValue>
+          <ScanMode>CW</ScanMode>
+          <StudyId>Cardiac/SD/Aortic</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>20.504574588128289</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-60B81265-252F-405F-9ED3-728F532B329F</MeasureId>
+          <ParameterId>USERDEFP-BA915E71-23BE-4C96-A1B4-1F3D60FC4BDD</ParameterId>
+          <ParameterName>LA1</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.031085379801609792</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>USERDEFS-4F32AE10-F8C1-4B76-A7E7-7709B342D5A6</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>31.085379801609793</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-60B81265-252F-405F-9ED3-728F532B329F</MeasureId>
+          <ParameterId>USERDEFP-BA915E71-23BE-4C96-A1B4-1F3D60FC4BDD</ParameterId>
+          <ParameterName>LA1</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.031085379801609792</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>USERDEFS-4F32AE10-F8C1-4B76-A7E7-7709B342D5A6</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>31.085379801609793</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-075B12EF-D058-4117-9066-A8C809A7C83B</MeasureId>
+          <ParameterId>USERDEFP-2F7DC055-D293-4677-BBD9-A329473BD561</ParameterId>
+          <ParameterName>LA2</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.043559809550397961</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>USERDEFS-4F32AE10-F8C1-4B76-A7E7-7709B342D5A6</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>43.559809550397958</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>mm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-075B12EF-D058-4117-9066-A8C809A7C83B</MeasureId>
+          <ParameterId>USERDEFP-2F7DC055-D293-4677-BBD9-A329473BD561</ParameterId>
+          <ParameterName>LA2</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.043559809550397961</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>USERDEFS-4F32AE10-F8C1-4B76-A7E7-7709B342D5A6</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>43.559809550397958</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-075B12EF-D058-4117-9066-A8C809A7C83B</MeasureId>
+          <ParameterId>USERDEFP-C7DFE029-F19F-4FB6-A089-30440B7C869F</ParameterId>
+          <ParameterName>LA Vol(MM)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>2.2649690541735284E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>USERDEFS-4F32AE10-F8C1-4B76-A7E7-7709B342D5A6</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>22.649690541735282</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-075B12EF-D058-4117-9066-A8C809A7C83B</MeasureId>
+          <ParameterId>USERDEFP-C7DFE029-F19F-4FB6-A089-30440B7C869F</ParameterId>
+          <ParameterName>LA Vol(MM)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>2.2649690541735284E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>USERDEFS-4F32AE10-F8C1-4B76-A7E7-7709B342D5A6</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>22.649690541735282</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml/m2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-075B12EF-D058-4117-9066-A8C809A7C83B</MeasureId>
+          <ParameterId>USERDEFP-F364D3C7-40D0-4E43-8E3F-25E23C7A7C2D</ParameterId>
+          <ParameterName>LA Vol(MM) Index</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>1.2112133979537585E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>USERDEFS-4F32AE10-F8C1-4B76-A7E7-7709B342D5A6</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>12.112133979537585</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>A</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml/m2</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>USERDEFM-075B12EF-D058-4117-9066-A8C809A7C83B</MeasureId>
+          <ParameterId>USERDEFP-F364D3C7-40D0-4E43-8E3F-25E23C7A7C2D</ParameterId>
+          <ParameterName>LA Vol(MM) Index</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>1.2112133979537585E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>USERDEFS-4F32AE10-F8C1-4B76-A7E7-7709B342D5A6</StudyId>
+          <ParameterType>C</ParameterType>
+          <DisplayValue>12.112133979537585</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>BPM</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/HR_4Ch_Q</ParameterId>
+          <ParameterName>HR 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>76.71506</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>76.71506</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>BPM</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/HR_4Ch_Q</ParameterId>
+          <ParameterName>HR 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>76.71506</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>76.71506</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVVED_4Ch_Q</ParameterId>
+          <ParameterName>LVVED 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>9.875019E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>98.75019</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVVED_4Ch_Q</ParameterId>
+          <ParameterName>LVVED 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>9.875019E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>98.75019</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVVES_4Ch_Q</ParameterId>
+          <ParameterName>LVVES 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>4.654592E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>46.54592</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVVES_4Ch_Q</ParameterId>
+          <ParameterName>LVVES 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>4.654592E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>46.54592</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVEF_4Ch_Q</ParameterId>
+          <ParameterName>LVEF 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.5286497</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>52.86497</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVEF_4Ch_Q</ParameterId>
+          <ParameterName>LVEF 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.5286497</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>52.86497</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVSV_4Ch_Q</ParameterId>
+          <ParameterName>LVSV 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>5.220427E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>52.20427</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ml</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVSV_4Ch_Q</ParameterId>
+          <ParameterName>LVSV 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>5.220427E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>52.20427</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>l/min</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVCO_4Ch_Q</ParameterId>
+          <ParameterName>LVCO 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>6.674756E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>4.0048536</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>l/min</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVCO_4Ch_Q</ParameterId>
+          <ParameterName>LVCO 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>6.674756E-05</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>4.0048536</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVLs_4Ch_Q</ParameterId>
+          <ParameterName>LVLs 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.07405862</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>7.4058620000000008</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVLs_4Ch_Q</ParameterId>
+          <ParameterName>LVLs 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.07405862</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>7.4058620000000008</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVLd_4Ch_Q</ParameterId>
+          <ParameterName>LVLd 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.08705734</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>8.705734</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>cm</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AutoEF/All</MeasureId>
+          <ParameterId>AutoEF/LVLd_4Ch_Q</ParameterId>
+          <ParameterName>LVLd 4Ch Q</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.08705734</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AutoEF</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>8.705734</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/BS PeakSysSL</ParameterId>
+          <ParameterName>BS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.07874169</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-7.874169</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/BS PeakSysSL</ParameterId>
+          <ParameterName>BS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.07874169</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-7.874169</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/BL PeakSysSL</ParameterId>
+          <ParameterName>BL PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.2025739</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-20.25739</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/BL PeakSysSL</ParameterId>
+          <ParameterName>BL PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.2025739</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-20.25739</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/MS PeakSysSL</ParameterId>
+          <ParameterName>MS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1662077</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-16.62077</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/MS PeakSysSL</ParameterId>
+          <ParameterName>MS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1662077</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-16.62077</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/ML PeakSysSL</ParameterId>
+          <ParameterName>ML PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1835252</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-18.35252</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/ML PeakSysSL</ParameterId>
+          <ParameterName>ML PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1835252</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-18.35252</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/AS PeakSysSL</ParameterId>
+          <ParameterName>AS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1614019</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-16.140189999999997</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/AS PeakSysSL</ParameterId>
+          <ParameterName>AS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1614019</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-16.140189999999997</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/AL PeakSysSL</ParameterId>
+          <ParameterName>AL PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1700455</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-17.00455</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A4C</MeasureId>
+          <ParameterId>AFI/AL PeakSysSL</ParameterId>
+          <ParameterName>AL PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1700455</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-17.00455</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/BA PeakSysSL</ParameterId>
+          <ParameterName>BA PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.101886</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-10.188600000000001</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/BA PeakSysSL</ParameterId>
+          <ParameterName>BA PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.101886</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-10.188600000000001</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/BI PeakSysSL</ParameterId>
+          <ParameterName>BI PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.07423971</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-7.423971</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/BI PeakSysSL</ParameterId>
+          <ParameterName>BI PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.07423971</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-7.423971</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/MA PeakSysSL</ParameterId>
+          <ParameterName>MA PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1748428</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-17.48428</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/MA PeakSysSL</ParameterId>
+          <ParameterName>MA PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1748428</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-17.48428</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/MI PeakSysSL</ParameterId>
+          <ParameterName>MI PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1639603</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-16.39603</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/MI PeakSysSL</ParameterId>
+          <ParameterName>MI PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1639603</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-16.39603</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/AA PeakSysSL</ParameterId>
+          <ParameterName>AA PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1475323</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-14.75323</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/AA PeakSysSL</ParameterId>
+          <ParameterName>AA PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1475323</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-14.75323</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/AI PeakSysSL</ParameterId>
+          <ParameterName>AI PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.2050227</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-20.50227</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/A2C</MeasureId>
+          <ParameterId>AFI/AI PeakSysSL</ParameterId>
+          <ParameterName>AI PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.2050227</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-20.50227</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/BAS PeakSysSL</ParameterId>
+          <ParameterName>BAS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1076765</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-10.76765</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/BAS PeakSysSL</ParameterId>
+          <ParameterName>BAS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1076765</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-10.76765</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/BP PeakSysSL</ParameterId>
+          <ParameterName>BP PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.0886039</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-8.86039</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/BP PeakSysSL</ParameterId>
+          <ParameterName>BP PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.0886039</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-8.86039</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/MAS PeakSysSL</ParameterId>
+          <ParameterName>MAS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1207413</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-12.07413</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/MAS PeakSysSL</ParameterId>
+          <ParameterName>MAS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1207413</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-12.07413</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/MP PeakSysSL</ParameterId>
+          <ParameterName>MP PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.07011493</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-7.0114930000000006</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/MP PeakSysSL</ParameterId>
+          <ParameterName>MP PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.07011493</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-7.0114930000000006</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/AAS PeakSysSL</ParameterId>
+          <ParameterName>AAS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.09619891</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-9.6198909999999991</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/AAS PeakSysSL</ParameterId>
+          <ParameterName>AAS PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.09619891</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-9.6198909999999991</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/AP PeakSysSL</ParameterId>
+          <ParameterName>AP PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.05536735</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-5.536735</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/APLAX</MeasureId>
+          <ParameterId>AFI/AP PeakSysSL</ParameterId>
+          <ParameterName>AP PSSL Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.05536735</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-5.536735</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/AVC</ParameterId>
+          <ParameterName>AVC</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.2944689</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>294.46889999999996</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/AVC</ParameterId>
+          <ParameterName>AVC</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.2944689</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>294.46889999999996</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/PSD</ParameterId>
+          <ParameterName>Peak SL Dispersion Full</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>0.05714808</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>57.14808</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>ms</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/PSD</ParameterId>
+          <ParameterName>Peak SL Dispersion Full</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>0.05714808</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>57.14808</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/GPeakSysSL(APLAX)</ParameterId>
+          <ParameterName>G peak SL Full(APLAX)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.09280238</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-9.280238</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/GPeakSysSL(APLAX)</ParameterId>
+          <ParameterName>G peak SL Full(APLAX)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.09280238</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-9.280238</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/GPeakSysSL(A4C)</ParameterId>
+          <ParameterName>G peak SL Full(A4C)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1598944</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-15.989439999999998</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/GPeakSysSL(A4C)</ParameterId>
+          <ParameterName>G peak SL Full(A4C)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1598944</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-15.989439999999998</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/GPeakSysSL(A2C)</ParameterId>
+          <ParameterName>G peak SL Full(A2C)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1343305</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-13.43305</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/GPeakSysSL(A2C)</ParameterId>
+          <ParameterName>G peak SL Full(A2C)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1343305</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-13.43305</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/GPeakSysSL(Avg)</ParameterId>
+          <ParameterName>G peak SL Full(Avg)</ParameterName>
+          <Qualifier />
+          <ResultNo>-1</ResultNo>
+          <ResultValue>-0.1290091</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-12.90091</DisplayValue>
+        </Parameter>
+        <Parameter>
+          <AverageType>L</AverageType>
+          <Category>C</Category>
+          <DisplayUnit>%</DisplayUnit>
+          <Edited>false</Edited>
+          <ExcludedFromAvg>false</ExcludedFromAvg>
+          <ExcludedFromCalc>false</ExcludedFromCalc>
+          <MeasureId>Cardiac/AFI/General</MeasureId>
+          <ParameterId>AFI/GPeakSysSL(Avg)</ParameterId>
+          <ParameterName>G peak SL Full(Avg)</ParameterName>
+          <Qualifier />
+          <ResultNo>0</ResultNo>
+          <ResultValue>-0.1290091</ResultValue>
+          <ScanMode>2D</ScanMode>
+          <StudyId>Cardiac/AFI</StudyId>
+          <ParameterType>M</ParameterType>
+          <DisplayValue>-12.90091</DisplayValue>
+        </Parameter>
+      </Series>
+      <BSA>1.87</BSA>
+    </Study>
+  </Patient>
+</MeasurementExport>
